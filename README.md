@@ -25,6 +25,8 @@ Some samples in this repositories may have special deployment instructions. Refe
 
 4. Congratulations!  Your application is now live at `your-app-id.appspot.com`
 
+5.[cloudflare-update](https://www.cloudflare.com)
+
 ## Contributing changes
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
