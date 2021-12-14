@@ -23,8 +23,10 @@ Some samples in this repositories may have special deployment instructions. Refe
    gcloud app deploy
    ```
 4.[cloudflare](https://cloudflarestatus.com)
-
-
+    
+   ...
+   seen with status
+  ...
 5. Congratulations!  Your application is now live at `your-app-id.appspot.com`
 
 ## Contributing changes
